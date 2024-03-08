@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fake-library
+  description: A totally fake librarytry
+  tags:
+    - python
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
