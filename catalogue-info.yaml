@@ -5,6 +5,10 @@ metadata:
   description: A totally fake librarytry
   tags:
     - python
+  links:
+    - url: https://dashboard.example.com
+      title: Documentation
+      icon: docs
 spec:
   type: library
   lifecycle: experimental
