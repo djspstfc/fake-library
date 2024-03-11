@@ -13,7 +13,7 @@ metadata:
       title: esgf-pyclient
       icon: github
   annotations:
-    endoflife.date/products: python@3.7,mysql@8
+    endoflife.date/products: python@3.7,mysql@8,numpy@1.23
 spec:
   type: library
   lifecycle: experimental
