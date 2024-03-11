@@ -12,6 +12,8 @@ metadata:
     - url: https://github.com/ESGF/esgf-pyclient/
       title: esgf-pyclient
       icon: github
+  annotations:
+    endoflife.date/products: python@3.7
 spec:
   type: library
   lifecycle: experimental
