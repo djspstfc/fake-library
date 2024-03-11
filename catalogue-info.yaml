@@ -6,9 +6,12 @@ metadata:
   tags:
     - python
   links:
-    - url: https://dashboard.example.com
-      title: Documentation
+    - url: https://esgf-pyclient.readthedocs.io/en/latest/
+      title: ESGF Pycient (redthedocs)
       icon: docs
+    - uri: https://github.com/ESGF/esgf-pyclient
+      title: esgf-pyclient
+      icon: github
 spec:
   type: library
   lifecycle: experimental
