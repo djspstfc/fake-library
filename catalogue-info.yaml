@@ -16,5 +16,5 @@ metadata:
     endoflife.date/products: numpy@1.23
 spec:
   type: library
-  lifecycle: experimental
+  lifecycle: depricated
   owner: user:default/guest
