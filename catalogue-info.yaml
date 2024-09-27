@@ -5,6 +5,9 @@ metadata:
   description: A totally fake library
   tags:
     - python
+  annotations:
+    github.com/project-slug: djspstfc/fake-library
+
 spec:
   type: library
   lifecycle: depricated
