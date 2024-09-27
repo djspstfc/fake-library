@@ -2,19 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: fake-library
-  description: A totally fake librarytry
+  description: A totally fake library
   tags:
     - python
-  links:
-    - url: https://esgf-pyclient.readthedocs.io/en/latest/
-      title: ESGF Pycient (redthedocs)
-      icon: docs
-    - url: https://github.com/ESGF/esgf-pyclient/
-      title: esgf-pyclient
-      icon: github
-  annotations:
-    endoflife.date/products: numpy@1.23
 spec:
   type: library
   lifecycle: depricated
-  owner: user:default/guest
+  owner: user:default/djspstfc
